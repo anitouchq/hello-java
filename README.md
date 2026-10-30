@@ -1,13 +1,5 @@
 # hello-java
 
-![Java CI](https://github.com/Evgeny65ok/hello-java/actions/workflows/ci.yml/badge.svg)
-
-<img width="1720" height="442" alt="image" src="https://github.com/user-attachments/assets/57049a6f-2abb-4e58-ae2f-3a78e532b3c4" />
-
-
-
-
-Пример Java-приложения с Maven, JUnit 5, Docker (multi-stage) и CI на GitHub Actions.
 
 ## Что внутри
 
